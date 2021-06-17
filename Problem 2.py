@@ -1,7 +1,3 @@
-# Problem 2
-# Assignment 4
-
-
 string = input()
 no_rotation = int(input())
 rotation_list = []
